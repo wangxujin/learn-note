@@ -8,3 +8,4 @@
 ) 搜狗分库分表框架
 * [elastic-job](https://github.com/dangdangdotcom/elastic-job) 当当网分布式任务调度框架
 * [sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc) 当当网分库分表框架
+* [webmagic](https://github.com/code4craft/webmagic) 爬虫框架
